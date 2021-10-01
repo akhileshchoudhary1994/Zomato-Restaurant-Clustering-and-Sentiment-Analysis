@@ -10,6 +10,6 @@ In today’s digitized modern world, popularity of food apps is increasing due t
 
 # Machine Learning
 
-logistic regression, random forest, multinomial naive bayesian and decision trees are used for predicting sentiments. 
+Logistic regression, Random forest, Multinomial Naive bayesian and Decision trees are used for predicting sentiments. 
 
 XGBoost model is the best got F1-score of 84% 
