@@ -12,21 +12,26 @@ For sentiment analysis, Multinomial NB, Logistic regression, Decision trees and 
 Algorithm   Class label
 Performance parameters
 # Multinomial NB
-|Precision|Recall|F1 score|
-0 |0.90|0.63|0.74|
-1 |0.82|0.96|0.88|
+    |Precision|Recall|F1 score|
+
+
+0   |0.90|0.63|0.74|
+1   |0.82|0.96|0.88|
 
 # Logistic regression
-0 |0.75|0.90|0.82|
-1 |0.93|0.83|0.88|
+
+0   |0.75|0.90|0.82|
+1   |0.93|0.83|0.88|
 
 # Decision trees
-0 |0.73|0.66|0.69|
-1 |0.82|0.86|0.84|
+
+0   |0.73|0.66|0.69|
+1   |0.82|0.86|0.84|
 
 # Random forest
-0 |0.59|0.95|0.73|
-1 |0.75|0.62|0.75|
+
+0   |0.59|0.95|0.73|
+1   |0.75|0.62|0.75|
 
 
 # Table 2: Performance metrics for diff. models on test set using TF-IDF vectorizer
