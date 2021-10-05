@@ -35,7 +35,7 @@ Algorithm   Class label Performance parameters
 # Table 2: Performance metrics for diff. models on test set using TF-IDF vectorizer
 Algorithm   Class label Performance parameters
 # Multinomial NB
-    |Precision|Recall|F1 score|
+    
 
     |0.85|0.59|0.70|
     |0.80|0.94|0.86|
