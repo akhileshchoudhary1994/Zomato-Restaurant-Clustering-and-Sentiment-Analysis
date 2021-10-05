@@ -23,35 +23,35 @@ Algorithm   Class label Performance parameters
 
 # Decision trees
 
-0   |0.73|0.66|0.69|
-1   |0.82|0.86|0.84|
+        |0.73|0.66|0.69|
+        |0.82|0.86|0.84|
 
 # Random forest
 
-0   |0.59|0.95|0.73|
-1   |0.75|0.62|0.75|
+        |0.59|0.95|0.73|
+        |0.75|0.62|0.75|
 
 
 # Table 2: Performance metrics for diff. models on test set using TF-IDF vectorizer
 Algorithm   Class label Performance parameters
 # Multinomial NB
-|Precision|Recall|F1 score|
+    |Precision|Recall|F1 score|
 
-0  |0.85|0.59|0.70|
-1  |0.80|0.94|0.86|
+    |0.85|0.59|0.70|
+    |0.80|0.94|0.86|
 
 # Logistic regression
 
-0   |0.69|0.85|0.76|
-1   |0.90|0.78|0.84|
+    |0.69|0.85|0.76|
+    |0.90|0.78|0.84|
 
 # Decision trees
-0   |0.70|0.63|0.66|
-1   |0.80|0.85|0.62|
+   |0.70|0.63|0.66|
+   |0.80|0.85|0.62|
 
 # Random forest
-0   |0.55|0.90|0.69|
-1   |0.91|0.58|0.71|
+  |0.55|0.90|0.69|
+  |0.91|0.58|0.71|
 
 
 
