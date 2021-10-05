@@ -70,15 +70,6 @@ Algorithm Class label Performance parameters
 |0.75|0.90|0.82|
 |0.93|0.83|0.88|
 
-# Decision trees
-|0.67|0.71|0.69|
-|0.83|0.80|0.81|
-
-# Random forest
-
-|0.63|0.95|0.75|
-|0.96|0.67|0.79|
-
 
 
 
