@@ -12,7 +12,6 @@ For sentiment analysis, Multinomial NB, Logistic regression, Decision trees and 
 Algorithm   Class label Performance parameters
 # Multinomial NB
     |Precision|Recall|F1 score|
-    -----------------------------
 0   |0.90     |0.63  |0.74    |
 1   |0.82     |0.96  |0.88    |
 
