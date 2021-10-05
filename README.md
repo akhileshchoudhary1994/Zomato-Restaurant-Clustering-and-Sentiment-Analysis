@@ -18,8 +18,8 @@ Algorithm   Class label Performance parameters
 
 # Logistic regression
 
-0   |0.75|0.90|0.82|
-1   |0.93|0.83|0.88|
+        |0.75|0.90|0.82|
+        |0.93|0.83|0.88|
 
 # Decision trees
 
