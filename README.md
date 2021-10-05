@@ -45,30 +45,7 @@ Algorithm   Class label Performance parameters
     |0.69|0.85|0.76|
     |0.90|0.78|0.84|
 
-# Decision trees
-   |0.70|0.63|0.66|
-   |0.80|0.85|0.62|
 
-# Random forest
-  |0.55|0.90|0.69|
-  |0.91|0.58|0.71|
-
-
-
-
-
-
-# Table 3: Performance metrics for diff. models on training set using bag of words
-Algorithm Class label Performance parameters
-# Multinomial NB
-
-
-|0.84|0.75|0.80|
-|0.87|0.92|0.89|
-
-# Logistic regression
-|0.75|0.90|0.82|
-|0.93|0.83|0.88|
 
 
 
