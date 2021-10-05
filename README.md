@@ -62,7 +62,7 @@ Algorithm   Class label Performance parameters
 Algorithm Class label Performance parameters
 # Multinomial NB
 
-|Precision|Recall|F1 score|
+
 |0.84|0.75|0.80|
 |0.87|0.92|0.89|
 
