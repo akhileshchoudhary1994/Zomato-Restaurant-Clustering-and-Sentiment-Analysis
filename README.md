@@ -9,12 +9,12 @@ For sentiment analysis, Multinomial NB, Logistic regression, Decision trees and 
 
 # Results and discussion:
 # Table 1:  Performance metrics for diff. models on training set using TF-IDF vectorizer
-Algorithm   Class label
-Performance parameters
+Algorithm   Class label Performance parameters
 # Multinomial NB
     |Precision|Recall|F1 score|
-|0   |0.90|0.63|0.74|
-|1   |0.82|0.96|0.88|
+    -----------------------------
+0       |0.90|0.63|0.74|
+1       |0.82|0.96|0.88|
 
 # Logistic regression
 
